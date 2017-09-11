@@ -1,6 +1,9 @@
-# libphonenumber-js
+# libphonenumber-js javascript demo
 
-from https://github.com/googlei18n/libphonenumber
+What is it?
+
+Google's validating international phone numbers. for more information, please checkout https://github.com/googlei18n/libphonenumber
+
 
 This is a simple libphonenumber-js demo for javascript. It returns an object when click on submit.
 such as:
