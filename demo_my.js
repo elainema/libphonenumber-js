@@ -9,7 +9,6 @@ goog.require('i18n.phonenumbers.PhoneNumberType');
 goog.require('i18n.phonenumbers.PhoneNumberUtil');
 goog.require('i18n.phonenumbers.PhoneNumberUtil.ValidationResult');
 
-
 function phoneNumberParser(regionCode, phoneNumber) {
   var $ = goog.dom.getElement;
   var phoneNumber = phoneNumber || $('phoneNumber').value;
