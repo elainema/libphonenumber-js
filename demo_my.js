@@ -72,5 +72,4 @@ function phoneNumberParser(regionCode, phoneNumber) {
     return e.toString();
   }
 }
-
 goog.exportSymbol('phoneNumberParser', phoneNumberParser);
